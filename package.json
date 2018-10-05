@@ -1,0 +1,30 @@
+{
+  "name": "namehole_web",
+  "version": "0.0.1",
+  "description": "Namehole Web Frontend",
+  "main": "index.js",
+  "dependencies": {
+    "bulma": "^0.7.1",
+    "bulma-start": "0.0.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-csso": "^3.0.1",
+    "gulp-sass": "^4.0.1",
+    "sass": "^1.14.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namehole/web.git"
+  },
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/namehole/web/issues"
+  },
+  "homepage": "https://github.com/namehole/web#readme"
+}
